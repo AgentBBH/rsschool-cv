@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/AgentBBH/rsschool-cv/cv
+https://agentbbh.github.io/rsschool-cv/cv
