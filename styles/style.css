@@ -125,20 +125,25 @@ body {
     width: 1.3vw;
 }
 
-.skills h3, .english h3 {
+.skills, .english {
+    font-size: 1vw;
+}
+
+.skills ul, .english ul {
+    padding-left: 1.2vw;
+}
+
+.skills span, .english span {
+    margin-right: 1vw
+}
+
+.english h3, .skills h3 {
     padding-bottom: 0;
     margin-bottom: 1vw;
     font-size: 1.5vw;
 }
 
-.english td, .skills td{
-    width: 8vw;
-    padding: 0;
-    margin: 0;
-    font-size: 1vw;
-}
-
-.skills hr, .hobbies hr, .english hr {
+.hobbies hr, .english hr {
     color: rgb(255, 255, 255);
     height: 0.2vw;
     width: 20vw;
